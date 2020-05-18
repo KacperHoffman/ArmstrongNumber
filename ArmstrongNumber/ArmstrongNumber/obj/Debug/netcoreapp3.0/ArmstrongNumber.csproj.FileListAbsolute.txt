@@ -1,0 +1,10 @@
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.0\ArmstrongNumber.exe
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.0\ArmstrongNumber.deps.json
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.0\ArmstrongNumber.runtimeconfig.json
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.0\ArmstrongNumber.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.0\ArmstrongNumber.dll
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.0\ArmstrongNumber.pdb
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.0\ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.0\ArmstrongNumber.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.0\ArmstrongNumber.dll
+C:\Users\Kacper\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.0\ArmstrongNumber.pdb
